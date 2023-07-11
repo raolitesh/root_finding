@@ -1,2 +1,4 @@
-# root_finding
-Two solvers for root finding problems
+# Numerical methods for finding roots
+# These codes are written for MATLAB
+- Bisection method
+- Fixed point iteration
